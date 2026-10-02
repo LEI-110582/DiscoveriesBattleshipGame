@@ -41,3 +41,5 @@ A dimensão corresponde ao número de quadrados que o navio ocupa na grelha.
 - [Nau](https://pt.wikipedia.org/wiki/Nau)
 - [Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
 - [Batalha Naval (jogo)](https://pt.wikipedia.org/wiki/Batalha_naval_(jogo))
+
+Update to pull request.
