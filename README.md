@@ -34,3 +34,10 @@ A dimensão corresponde ao número de quadrados que o navio ocupa na grelha.
    - quais os tiros que caíram na **água**.
 7. Cada jogador regista na grelha do oponente os resultados dos seus tiros e identifica os navios afundados.
 8. **Ganha** o primeiro jogador que afundar todos os navios da frota adversária.
+
+## 🔗 Para saber mais
+
+- [Caravela](https://pt.wikipedia.org/wiki/Caravela)
+- [Nau](https://pt.wikipedia.org/wiki/Nau)
+- [Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
+- [Batalha Naval (jogo)](https://pt.wikipedia.org/wiki/Batalha_naval_(jogo))
